@@ -1,0 +1,90 @@
+{
+    "site": {
+      "nomSite": "L'Univers des Chiens",
+      "slogan": "Tout ce que vous voulez savoir sur nos amis les chiens",
+      "messageInscription": "Rejoignez notre communauté pour des conseils et des astuces sur les chiens",
+      "articleEnVedette": {
+        "titreArticle": "Comment choisir la race de chien qui vous convient ?",
+        "resume": "Explorez les caractéristiques des différentes races et trouvez le compagnon idéal.",
+        "datePublication": "1er Décembre 2024",
+        "categorie": "Adoption et races",
+        "illustration": "images/image.png"
+      },
+      "articlesRecents": [
+        {
+          "titreArticle": "Les aliments toxiques pour les chiens : Ce qu'il faut éviter",
+          "datePublication": "28 Novembre 2024",
+          "categorie": "Santé et alimentation",
+          "illustration": "images/image.png"
+        },
+        {
+          "titreArticle": "Comment éduquer un chiot en douceur",
+          "datePublication": "20 Novembre 2024",
+          "categorie": "Éducation canine",
+          "illustration": "images/image.png"
+        },
+        {
+          "titreArticle": "Activités pour chiens : Gardez votre compagnon actif et heureux",
+          "datePublication": "15 Novembre 2024",
+          "categorie": "Loisirs et activités",
+          "illustration": "images/image.png"
+        },
+        {
+          "titreArticle": "Les chiens et la vie en appartement : Astuces pour une cohabitation harmonieuse",
+          "datePublication": "10 Novembre 2024",
+          "categorie": "Mode de vie",
+          "illustration": "images/image.png"
+        },
+        {
+          "titreArticle": "Les chiens héros : Histoires inspirantes de chiens qui ont sauvé des vies",
+          "datePublication": "5 Novembre 2024",
+          "categorie": "Histoires et culture",
+          "illustration": "images/image.png"
+        }
+      ],
+      "categories": [
+        {
+          "nomCategorie": "Adoption et races",
+          "descriptionCategorie": "Des guides pour choisir et comprendre les différentes races de chiens."
+        },
+        {
+          "nomCategorie": "Santé et alimentation",
+          "descriptionCategorie": "Des conseils pour une alimentation équilibrée et des soins adaptés pour votre chien."
+        },
+        {
+          "nomCategorie": "Éducation canine",
+          "descriptionCategorie": "Les meilleures pratiques pour éduquer et dresser votre chien."
+        },
+        {
+          "nomCategorie": "Loisirs et activités",
+          "descriptionCategorie": "Des idées d'activités pour maintenir votre chien en bonne santé et heureux."
+        },
+        {
+          "nomCategorie": "Mode de vie",
+          "descriptionCategorie": "Des conseils pour intégrer un chien dans votre quotidien, que vous viviez en maison ou en appartement."
+        },
+        {
+          "nomCategorie": "Histoires et culture",
+          "descriptionCategorie": "Découvrez des récits inspirants et le rôle des chiens à travers les âges."
+        }
+      ],
+      "auteursEquipe": [
+        {
+          "nomAuteur": "Julie",
+          "specialisation": "Comportementaliste canine",
+          "bio": "Passionnée par les interactions entre les chiens et les humains, je partage des astuces pour renforcer votre lien avec votre compagnon."
+        },
+        {
+          "nomAuteur": "Paul",
+          "specialisation": "Vétérinaire",
+          "bio": "Expert en santé canine, je vous conseille sur l'alimentation, les soins et la prévention des maladies."
+        },
+        {
+          "nomAuteur": "Emma",
+          "specialisation": "Éducatrice canine",
+          "bio": "Je propose des techniques modernes et douces pour éduquer votre chien tout en respectant ses besoins."
+        }
+      ]
+    }
+  }
+

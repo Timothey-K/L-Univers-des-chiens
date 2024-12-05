@@ -1,0 +1,128 @@
+body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+#nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #333;
+    padding: 10px 20px;
+    color: white;
+}
+
+#nav .logo {
+    font-size: 1.6rem;
+    font-weight: bold;
+}
+
+.nav-links {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    list-style: none;
+    display: flex;
+    margin: 0;
+    padding: 0;
+}
+
+.nav-links li {
+    position: relative;
+    margin: 0 15px;
+}
+
+.nav-links a {
+    text-decoration: none;
+    color: white;
+    font-size: 1rem;
+    transition: color 0.3s ease;
+}
+
+.nav-links a:hover {
+    color: gray;
+}
+
+.buttonsContainer{
+    display: flex;
+    gap: 15px;
+}
+
+.button{
+    width: fit-content;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 8px 16px;
+    border-radius: 6px;
+    border: solid 2.8px #333;
+    text-decoration: none;
+    font-weight: 500;
+    transition: all .3s ease-in-out;
+ }
+ 
+ .button:hover{
+    border: solid 2.5px #333;
+ }
+ 
+ .primary{
+    background: white;
+    color: #333;
+ }
+ 
+ .primary:hover{
+    background: white;
+ }
+ 
+ .avatar{
+    height: 50px;
+    width: 50px;
+    border: solid 2px #333;
+    border-radius: 100%;
+    object-fit: cover;
+ }
+
+ #hero{
+    width: 100vw;
+    height: 60vh;
+    background: url("");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-color: gray;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    /* margin-top: 60px; */
+ }
+ 
+ #hero h1, #hero h2{
+    margin: 0;
+    text-transform: uppercase;
+    
+ }
+ #hero h2{
+    font-weight: 400;
+ }
+
+.categorie{
+    display: flex;
+    gap: 25px;
+    margin-top: 40px;
+}
+
+/* @media (max-width: 768px) {
+    .navbar {
+        flex-direction: column;
+    }
+
+    .nav-links {
+        flex-direction: column;
+        align-items: center;
+    }
+
+    .nav-links li {
+        margin: 10px 0;
+    }
+} */
